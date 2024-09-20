@@ -17,6 +17,10 @@ The main components of this project include:
 3. **Noise Cancellation**: Use frequency domain techniques to filter out the noise and restore the original song signal.
 4. **Time Domain Visualization**: Plot the song signal in the time domain to observe the effects of noise and noise cancellation.
 
+![TimeDomainPlot](https://github.com/user-attachments/assets/c05f31bc-08d3-4a9a-a9bf-24161ec84d83)
+![FreqDomainPlot](https://github.com/user-attachments/assets/ae423215-f773-4e3b-85f7-02c923a61f11)
+
+
 ## Libraries Required
 
 - `numpy`: For numerical computations and signal processing.
